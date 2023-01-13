@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "requestServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VKNagibin/nodejs-module-http.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VKNagibin/nodejs-module-http/issues"
+  },
+  "homepage": "https://github.com/VKNagibin/nodejs-module-http#readme",
+  "dependencies": {
+    "axios": "^1.2.2"
+  }
+}
